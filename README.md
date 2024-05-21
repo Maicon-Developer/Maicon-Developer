@@ -1,15 +1,14 @@
-# Hi, i'm Daniel Silva
+# Hi, i'm Maicon Costa
 
 <div align="center">
-  <a href="https://github.com/Daniel-D3V">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Daniel-D3V&show_icons=true&theme=radical"/>
+  <a href="https://github.com/Maicon-Developer">
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Maicon-Developer&show_icons=true&theme=radical"/>
 <div>
 
 ###  My main skills
 
 </div class=langueges>
   <div style="display: inline_block"><br>
-  <img align="center" alt="NESTJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="NEXTJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Electron" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
