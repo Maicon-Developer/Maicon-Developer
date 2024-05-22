@@ -11,10 +11,8 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Python" height="40" width="50"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Lua" height="40" width="50"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
+    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Lua" height="40" width="50" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FLua_%2528linguagem_de_programa%25C3%25A7%25C3%25A3o%2529&psig=AOvVaw21hk92mkMXVw19D2O7kDL4&ust=1716423243204000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKja7ID9n4YDFQAAAAAdAAAAABAE)">
 </div>
   
 ##
